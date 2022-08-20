@@ -1,6 +1,7 @@
 # React-company-SERVICES
 
 **
+![screenshot](https://user-images.githubusercontent.com/54022120/185745899-1f6a49e8-e549-4f71-84c4-b4be950d1653.png)
 
 
 ## Description
